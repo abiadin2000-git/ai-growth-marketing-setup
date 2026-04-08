@@ -33,6 +33,10 @@ At first, it was not immediately clear how each tool should be used together.
 **Solution:**  
 Explored the interface step by step and focused on completing the setup first before deeper usage.
 
+### Additional Observation
+
+During the setup, I noticed that installing tools is straightforward, but understanding how they fit into a real workflow requires deliberate exploration. This shifted my focus from just completing the setup to thinking about practical usage.
+
 ---
 
 ## 4. Key Insight
