@@ -87,6 +87,7 @@ These experts represent different layers:
 - Monetization & strategy  
 
 ---
+
 ## 7. Repository Structure
 
 ---
