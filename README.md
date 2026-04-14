@@ -91,11 +91,13 @@ These experts represent different layers:
 ## 7. Repository Structure
 
 ---
+
 /research/ 
   ├── sources.md 
   ├── linkedin-posts/ 
   ├── youtube-transcripts/ 
   └── other/ 
+  
 ```
 
 ## 8. Data Collection Method
