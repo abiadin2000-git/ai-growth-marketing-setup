@@ -87,11 +87,13 @@ These experts represent different layers:
 - Monetization & strategy  
 
 ---
-
 ## 7. Repository Structure
-
----
-
+/research/ 
+  ├── sources.md 
+  ├── linkedin-posts/ 
+  ├── youtube-transcripts/ 
+  └── other/ 
+```
 ## 8. Data Collection Method
 
 ### YouTube Transcripts
