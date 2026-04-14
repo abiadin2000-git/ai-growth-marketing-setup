@@ -10,7 +10,7 @@ This repository documents:
 1. Initial **AI workflow setup** using Cursor, Claude Code, and Codex  
 2. A structured **research project on AI-powered SEO content production**
 
-The objective is to combine **tool readiness** with **real-world research execution**.
+The objective is to combine **tool readiness** with **real-world research execution**, focusing on building a dataset that can support future AI-driven content systems.
 
 ---
 
@@ -90,20 +90,25 @@ These experts represent different layers:
 
 ## 7. Repository Structure
 
----
-
-/research/ 
-  ├── sources.md 
-  ├── linkedin-posts/ 
-  ├── youtube-transcripts/ 
-  └── other/ 
-  
+```bash
+/research/
+  ├── sources.md
+  ├── linkedin-posts/
+  │   └── (individual expert files)
+  ├── youtube-transcripts/
+  │   └── (video transcript files)
+  └── other/
+      └── (additional notes & materials)
 ```
+
+This structure separates raw data sources from categorized research materials.
+
+---
 
 ## 8. Data Collection Method
 
 ### YouTube Transcripts
-- Collected from recent videos (2025–2026)
+- Collected from recent videos (2025–2026)  
 - Focus on AI SEO, automation, and search evolution  
 
 ### LinkedIn / X Posts
@@ -136,7 +141,7 @@ A consistent pattern across the selected experts is the shift from:
 → to  
 - entity-based, AI-readable content systems  
 
-This shows that modern content must be optimized not only for users, but also for AI systems that interpret and redistribute information.
+Modern content must be optimized not only for users, but also for AI systems that interpret and redistribute information.
 
 ---
 
